@@ -2,6 +2,9 @@
 
 Automatically greet your employees on their birthday!
 
+<img width="820" alt="image" src="https://user-images.githubusercontent.com/103281038/230751479-d0cc4e13-69d9-4cb1-bf40-86bd2071882f.png">
+
+
 System developed for We Plan S.A., a Business Intelligence Consultant Enterprise from Argentina.
 
 ## How It's Made:
