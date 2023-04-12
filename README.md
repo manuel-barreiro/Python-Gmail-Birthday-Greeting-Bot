@@ -2,6 +2,9 @@
 
 Automatically greet your employees on their birthday!
 
+<img width="820" alt="image" src="https://user-images.githubusercontent.com/103281038/230751479-d0cc4e13-69d9-4cb1-bf40-86bd2071882f.png">
+
+
 System developed for We Plan S.A., a Business Intelligence Consultant Enterprise from Argentina.
 
 ## How It's Made:
@@ -31,4 +34,4 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 
 ## Lessons Learned:
 
-The Biggest Lesson I learned in tackling this endless supply of questions is understanding that there is a long way to go. Not being able to answer a question is okay, as long as you take the initiative to improve.
+One of the key lessons I took away from this project was the value of continuous integration and testing, which helped me catch and fix issues early on.
