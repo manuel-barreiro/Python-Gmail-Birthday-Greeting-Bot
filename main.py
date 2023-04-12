@@ -26,10 +26,12 @@ if len(nombre_cumpleanero) > 0:
     for nombre, correo in zip(nombre_cumpleanero, correo_cumpleanero):
 
         #Defino lista con los nombres de los 3 htmls de los mensajes
-        lista_htmls = ['saludo1.html','saludo3.html']
+        # lista_htmls = ['saludo1.html','saludo2.html','saludo3.html']
 
         #Hago una elección aleatoria de un archivo html
-        archivo_html = random.choice(lista_htmls)
+        # archivo_html = random.choice(lista_htmls)
+
+        archivo_html = 'saludo3.html'
 
         #Abrimos el archivo html y almacenamos en data el contenido del archivo html, reemplazando [NOMBRE] por el nombre del empleado
         with open(r'{}'.format(archivo_html), 'r') as file:
