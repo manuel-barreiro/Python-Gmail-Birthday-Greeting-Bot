@@ -34,4 +34,4 @@ I consistently refactor and optimize my code, sometimes for efficiency, sometime
 
 ## Lessons Learned:
 
-One of the key lessons I took away from this project was the value of continuous integration and testing, which helped me catch and fix issues early on.
+One of the key lessons I took away from this project was the value of continuous integration and testing, which helped me catch and fix issues early 
